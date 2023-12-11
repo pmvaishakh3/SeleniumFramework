@@ -11,26 +11,26 @@
       <![CDATA[Logout]]>
     </line>
   </reporter-output>
-  <suite started-at="2023-12-11T19:51:10 IST" name="Default suite" finished-at="2023-12-11T19:51:10 IST" duration-ms="93">
+  <suite started-at="2023-12-11T21:16:21 IST" name="Default suite" finished-at="2023-12-11T21:16:22 IST" duration-ms="219">
     <groups>
     </groups>
-    <test started-at="2023-12-11T19:51:10 IST" name="Default test" finished-at="2023-12-11T19:51:10 IST" duration-ms="93">
+    <test started-at="2023-12-11T21:16:21 IST" name="Default test" finished-at="2023-12-11T21:16:22 IST" duration-ms="219">
       <class name="TestNG.LoginTest">
-        <test-method signature="aAddTest()[pri:0, instance:TestNG.LoginTest@4d5650ae]" started-at="2023-12-11T19:51:10 IST" name="aAddTest" description="Add" finished-at="2023-12-11T19:51:10 IST" duration-ms="12" status="PASS">
+        <test-method signature="aAddTest()[pri:0, instance:TestNG.LoginTest@70e9c95d]" started-at="2023-12-11T21:16:22 IST" name="aAddTest" description="Add" finished-at="2023-12-11T21:16:22 IST" duration-ms="21" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[add]]>
             </line>
           </reporter-output>
         </test-method> <!-- aAddTest -->
-        <test-method signature="bloginTest()[pri:0, instance:TestNG.LoginTest@4d5650ae]" started-at="2023-12-11T19:51:10 IST" name="bloginTest" description="login test" finished-at="2023-12-11T19:51:10 IST" duration-ms="2" status="PASS">
+        <test-method signature="bloginTest()[pri:0, instance:TestNG.LoginTest@70e9c95d]" started-at="2023-12-11T21:16:22 IST" name="bloginTest" description="login test" finished-at="2023-12-11T21:16:22 IST" duration-ms="6" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Login]]>
             </line>
           </reporter-output>
         </test-method> <!-- bloginTest -->
-        <test-method signature="cLogoutTest()[pri:0, instance:TestNG.LoginTest@4d5650ae]" started-at="2023-12-11T19:51:10 IST" name="cLogoutTest" description="logout test" finished-at="2023-12-11T19:51:10 IST" duration-ms="2" status="PASS">
+        <test-method signature="cLogoutTest()[pri:0, instance:TestNG.LoginTest@70e9c95d]" started-at="2023-12-11T21:16:22 IST" name="cLogoutTest" description="logout test" finished-at="2023-12-11T21:16:22 IST" duration-ms="5" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Logout]]>
